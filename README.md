@@ -1,6 +1,5 @@
 # Rotating Image Gallery
-An Educational Quiz Application.
-
+This project is an interactive Quiz Application designed to test user knowledge on a specific topic (or a range of topics). Built with Vanilla JavaScript, HTML, and CSS, it manages the complete quiz lifecycle, including question presentation, answer validation, score tracking, and immediate feedback. It demonstrates key front-end skills in event handling and dynamic state management without relying on external libraries.
 ## Table of contents
 
 - [Overview](#overview)
@@ -110,7 +109,7 @@ function selectAnswer(e) {
 
 ## Author
 
-- Website - [@sir_josh01](https://www.your-site.com)
+- Website - [@sir_josh01](https://www.your-site.com](https://my-portfolio-sir-josh01-projects.vercel.app/))
 - Frontend Mentor - [@sir_josh01](https://www.frontendmentor.io/profile/sir_josh01)
 - Twitter - [@sir_josh01](https://www.twitter.com/Sir_josh01)
 - LinkedIn - [@sir_josh01](https://www.linkedin.com/in/sir-josh01)
