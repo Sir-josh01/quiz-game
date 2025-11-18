@@ -98,7 +98,9 @@ function selectAnswer(e) {
 ### Continued development
 
 -To add an API and integrate the application to generate question from an extertal source
--Make the questio dynamic and more educational and inspiring.  
+-Make the questio dynamic and more educational and inspiring.
+-Add a button which will end and exit application
+-Store the score and display to users.  
 
 ### Useful resources
 
