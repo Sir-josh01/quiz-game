@@ -1,4 +1,4 @@
-# Rotating Image Gallery
+# Quiz Game
 This project is an interactive Quiz Application designed to test user knowledge on a specific topic (or a range of topics). Built with Vanilla JavaScript, HTML, and CSS, it manages the complete quiz lifecycle, including question presentation, answer validation, score tracking, and immediate feedback. It demonstrates key front-end skills in event handling and dynamic state management without relying on external libraries.
 ## Table of contents
 
