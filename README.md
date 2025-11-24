@@ -104,13 +104,13 @@ function selectAnswer(e) {
 
 ### Useful resources
 
-- [Example resource 1](https://www.google.com) - Acquired some resources from stackoverflow.
-- [Example resource 2](https://www.w3school) - An amazing site which helped with giving understanding deeper concepts.
+- [stackoverflow.com] - Acquired some resources from stackoverflow.
+- [w3school.com](https://www.w3school) - An amazing site which helped with giving understanding deeper concepts.
 
 
 ## Author
 
-- Website - [@sir_josh01](https://www.your-site.com)
+- Website - [@myPorfolio](https://my-portfolio-f43qpo3lz-sir-josh01-projects.vercel.app/)
 - Frontend Mentor - [@sir_josh01](https://www.frontendmentor.io/profile/sir_josh01)
 - Twitter - [@sir_josh01](https://www.twitter.com/Sir_josh01)
 - LinkedIn - [@sir_josh01](https://www.linkedin.com/in/sir-josh01)
