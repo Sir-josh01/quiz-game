@@ -1,6 +1,5 @@
-# Rotating Image Gallery
-An Educational Quiz Application.
-
+# Quiz Game
+This project is an interactive Quiz Application designed to test user knowledge on a specific topic (or a range of topics). Built with Vanilla JavaScript, HTML, and CSS, it manages the complete quiz lifecycle, including question presentation, answer validation, score tracking, and immediate feedback. It demonstrates key front-end skills in event handling and dynamic state management without relying on external libraries.
 ## Table of contents
 
 - [Overview](#overview)
@@ -35,8 +34,8 @@ Built with HTML, CSS and Vanilla JavaScript.
 
 ### Links
 
-- Solution URL: [@GitHub]( https://github.com/Sir-josh01/)
-- Live Site URL: [@](https://sir-josh01.github.io/)
+- Solution URL: [@GitHub](https://github.com/Sir-josh01/quiz-game)
+- Live Site URL: [@](https://)
 
 ## My process
 - Structure with HTML.
@@ -104,7 +103,7 @@ function selectAnswer(e) {
 
 ### Useful resources
 
-- [stackoverflow.com] - Acquired some resources from stackoverflow.
+- [google.com](https://www.google.com) - Acquired some resources from stackoverflow.
 - [w3school.com](https://www.w3school) - An amazing site which helped with giving understanding deeper concepts.
 
 
