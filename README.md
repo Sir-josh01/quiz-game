@@ -34,8 +34,8 @@ Built with HTML, CSS and Vanilla JavaScript.
 
 ### Links
 
-- Solution URL: [@GitHub]( https://github.com/Sir-josh01/)
-- Live Site URL: [@](https://sir-josh01.github.io/)
+- Solution URL: [@GitHub](https://github.com/Sir-josh01/quiz-game)
+- Live Site URL: [@](https://)
 
 ## My process
 - Structure with HTML.
@@ -103,13 +103,13 @@ function selectAnswer(e) {
 
 ### Useful resources
 
-- [Example resource 1](https://www.google.com) - Acquired some resources from stackoverflow.
-- [Example resource 2](https://www.w3school) - An amazing site which helped with giving understanding deeper concepts.
+- [Google.com](https://www.google.com) - Acquired some resources from stackoverflow.
+- [w3school.com](https://www.w3school) - An amazing site which helped with giving understanding deeper concepts.
 
 
 ## Author
 
-- Website - [@sir_josh01](https://www.your-site.com](https://my-portfolio-sir-josh01-projects.vercel.app/))
+- Website - [@sir_josh01](https://my-portfolio-sir-josh01-projects.vercel.app/)
 - Frontend Mentor - [@sir_josh01](https://www.frontendmentor.io/profile/sir_josh01)
 - Twitter - [@sir_josh01](https://www.twitter.com/Sir_josh01)
 - LinkedIn - [@sir_josh01](https://www.linkedin.com/in/sir-josh01)
